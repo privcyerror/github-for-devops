@@ -1,0 +1,18 @@
+ git in it
+   dir -a
+   git init
+    dir
+   git status
+   git add testin.py
+    git add testing,py
+    git add testing.py
+   git add testing .py
+   clear
+   git add <file>...
+   git add <testing.py>
+   git add testing.py...
+   clear
+   git status
+   git add testing.py
+   git status
+   git commit -m"added testing files"
